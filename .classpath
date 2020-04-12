@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/json-20180130 copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/commons-io-2.4 copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/ezmorph-1.0.6 copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/json-lib-2.4-jdk15 copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/commons-lang-2.6 copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/json-lib-2.4-jdk15-javadoc copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/commons-beanutils-1.8.3 copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/commons-collections-3.2.1 copy.jar"/>
+	<classpathentry kind="lib" path="/Users/Nick/Downloads/json Libraries/commons-logging-1.1.1 copy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
